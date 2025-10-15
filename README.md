@@ -1,5 +1,4 @@
 📰 Innovation Newsletter Automation
-📘 Giới thiệu
 
 Innovation Newsletter là dự án Python tự động thu thập – tóm tắt – gửi bản tin công nghệ hàng tuần qua email.
 Hệ thống được thiết kế để giúp người dùng dễ dàng tạo các bản tin (newsletter) cập nhật các tin tức nổi bật trong lĩnh vực công nghệ, AI, và đổi mới sáng tạo, sau đó gửi đến danh sách người nhận thông qua Gmail SMTP.
